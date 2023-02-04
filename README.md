@@ -1,5 +1,17 @@
 # Bad Thing
 
+A web companion to help translate news articles and posts from NPCs. Enter your own keywords and enjoy the show!
+
+[Google Chrome Extension - Bad Thing](https://chrome.google.com/webstore/detail/bad-thing/eladiogamkdejnecffidaogigdaimglf)
+
+
+
+---
+
+PLASMO INSTRUCTIONS BELOW
+
+---
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
